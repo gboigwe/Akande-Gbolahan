@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab7cee30-f43d-4609-a424-977e96c3b132/deploy-status)](https://app.netlify.com/sites/agetech/deploys)
